@@ -9,11 +9,6 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor fullstack apaixonado por criar soluções digitais eficientes e escaláveis. Minha experiência abrange desenvolvimento web e mobile, sempre focado em performance, usabilidade e inovação.  
 
-**Principais Conquistas:**  
-✔️ Otimizei aplicações, reduzindo o tempo de carregamento em **30%**.  
-✔️ Diminui **20% dos bugs críticos** em projetos web e mobile.  
-✔️ Melhorei a experiência do usuário, aumentando o **engajamento em 25%**.  
-
 ## 🎓 Formação Acadêmica
 🎓 **Análise e Desenvolvimento de Software** – Faeterj-Rio  
 📜 **Bootcamp Desenvolvimento Web** – Generation Brasil  
